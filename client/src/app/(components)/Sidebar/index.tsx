@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="s3-pou-inventory.s3.us-east-1.amazonaws.com/logo.png"
+          src="https://s3-pou-inventory.s3.us-east-1.amazonaws.com/logo.png"
           alt="edstock-logo"
           width={27}
           height={27}
